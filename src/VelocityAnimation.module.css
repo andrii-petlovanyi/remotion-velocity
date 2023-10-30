@@ -11,7 +11,7 @@
 }
 
 .end_list {
-	background: #000000dd !important;
+	background: #000000bb !important;
 	display: flex;
 	flex-direction: column;
 	opacity: 0;
