@@ -9,7 +9,7 @@
   </a>
 </p>
 
-[![Watch result](https://drive.google.com/file/d/1X-0APYsQMMKzzm5Y3wAf8mbXQ9bcR3Yu/view?usp=sharing)](https://drive.google.com/file/d/1G-GvEvfU1DWLpUfimqG_1p5VaBXJutMy/view?usp=sharing)
+[![Watch result](https://res.cloudinary.com/dco39k7gh/image/upload/v1698732374/Screenshot_from_2023-10-31_08-04-22_dtszyd.png)](https://drive.google.com/file/d/1G-GvEvfU1DWLpUfimqG_1p5VaBXJutMy/view?usp=sharing)
 
 Welcome to your Remotion project!
 
